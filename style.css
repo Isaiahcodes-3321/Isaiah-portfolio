@@ -307,7 +307,7 @@ html {
         margin-top: -10%;
     }
 
-    .fa-python {
+    .fa-f {
         font-size: 7vw;
         margin-top: -10%;
     }
@@ -912,7 +912,7 @@ html {
         margin-top: -10%;
     }
 
-    .fa-python {
+    .fa-f {
         font-size: 10vw;
         margin-top: -10%;
     }
@@ -1549,7 +1549,7 @@ html {
         margin-top: -10%;
     }
 
-    .fa-python {
+    .fa-f {
         color: #ffffff;
         font-size: 15vw;
         margin-top: -10%;
@@ -1811,5 +1811,6 @@ html {
 ::-webkit-scrollbar{
   display: none;
 }
+
 
 }
